@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @hammedbello
 - 👀 I’m interested in web development 
 - 🌱 I’m currently learning frontend development
-- 💞️ I’m looking to collaborate on fronend development 
+- 💞️ I’m looking to collaborate on frontend development 
 - 📫 How to reach me hammedbello171@gmail.com
 
 <!---
